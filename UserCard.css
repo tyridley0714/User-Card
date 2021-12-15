@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+  }
+  .container {
+    width: 900px;
+    margin: 0 auto;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    
+  }
+  .mapmarker-body{
+    font-weight: 300px;
+    margin-bottom: 200px;
+    margin-left: 300px;
+    padding: 20px;
+    margin-right: 300px;
+  }
+  h1 {
+      margin-left: 300px;
+      margin-right: 300px;
+  }
+  h3{
+      padding: 5px;
+
+  }
+  h4 {
+      padding: 5px;
+  }
+  p {
+    margin-top: -20px;
+    margin-left: 20px;
+
+  }
+  .usercircle-header {
+    background-color:  lightskyblue;
+    margin-left: 300px;
+    padding: 20px;
+    margin-right: 300px;
+  }
+  .circlepng {
+      margin: 0px;
+      border-radius: 25%;
+      width: 150px;
+
+  }
+
+  #marker{
+      width: 50px;
+  }
+  a {
+      color: #3a81e6;
+      width: 20px;
+      padding: 5px;
+  }
+  .gearpng {
+      height: 20px;
+
+  }
